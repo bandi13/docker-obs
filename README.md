@@ -5,7 +5,7 @@
 [![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoff.ee/bandi13)
 
 # Docker Open Broadcaster Software (OBS)
-This container is based on [![bandi13/gui-docker]](https://github.com/bandi13/gui-docker). The OBS is incorporated into the container and can be used to stream your desktop.
+This container is based on [bandi13/gui-docker](https://github.com/bandi13/gui-docker). The OBS is incorporated into the container and can be used to stream your desktop.
 
 Here is a screenshot:
 ![Alt](https://raw.githubusercontent.com/bandi13/docker-obs/master/screenshot.png "Example screenshot")
